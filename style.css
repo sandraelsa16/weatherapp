@@ -1,0 +1,32 @@
+body{
+   
+    background:linear-gradient(to bottom,#aae8ed, #2a5a85 );
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    font-family: Georgia;
+    overflow: hidden;
+}
+
+body h1{
+    
+    color: rgb(30, 60, 83);
+    font-weight: 550;
+    font-size: 3.5em;
+}
+
+input{
+    margin-top: 12px;
+}
+
+.container{
+   
+    max-width: 400px;
+}
+
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
